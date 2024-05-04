@@ -1,7 +1,7 @@
 # -ASGI-in-Django
 Hey there! Welcome to my Django project repository. 🎉
 
-# This repository houses my Django web application, where I've learned to deploy a web application using ASGI (Asynchronous Server Gateway Interface). With this project, I aim to showcase my journey from setting up the development environment to deploying the application on a live server.
+This repository houses my Django web application, where I've learned to deploy a web application using ASGI (Asynchronous Server Gateway Interface). With this project, I aim to showcase my journey from setting up the development environment to deploying the application on a live server.
 
 # Features:
 
@@ -19,7 +19,7 @@ Technologies Used:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install the required dependencies using pip install -r requirements.txt.
+3. Install the required dependencies.
 4. Run the Daphne server using the command daphne -b 0.0.0.0 -p 8000 myproject.asgi:application.
 5. Access the deployed application at http://localhost:8000 in your web browser.
 
